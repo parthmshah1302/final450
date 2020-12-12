@@ -34,7 +34,7 @@ string convert(string s)
 // Driver program  
 int main()  
 {   //Enter name of file here
-    string str = "Cyclically rotate an array by one ";  
+    string str = "Move all the negative elements to one side of the array ";  
     cout << convert(str);  
     return 0;  
 }  
